@@ -35,3 +35,12 @@ An exhaustive list of original technical articles authored.
 * [A Beginner's Guide To SQL and Relational Database Management Systemms](https://www.dbvis.com/thetable/a-beginner%e2%80%99s-guide-to-sql-relational-database-management-systems/)
 * [Temporary Tables In Postgres Explained](https://www.dbvis.com/thetable/temporary-tables-in-postgres-explained/)
 * [What Is A PostgreSQL Primary Key](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
+
+## Pieces For Developers
+*[Unboxing Pieces App For Developers: You Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
+
+## Some Dev.TO Articles
+* [Advantages of Bun: When To Choose It Over Nodejs](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
+* [Analyzing and Visualizing Data With PostgreSQL and ArcType SQL Client](https://dev.to/kwamedev/analysing-visualising-data-with-postgresql-and-arctype-sql-client-1o5e)
+* [Data Structures Every Web Developer Should Know](https://dev.to/kwamedev/data-structures-every-web-developer-should-know-1ikg)
+* [Unit Testig With Mocha and Chai](https://dev.to/kwamedev/unit-testing-with-mocha-chai-4gdh)
