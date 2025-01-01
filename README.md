@@ -37,7 +37,7 @@ An exhaustive list of original technical articles authored.
 * [What Is A PostgreSQL Primary Key](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
 
 ## Pieces For Developers
-* [Unboxing Pieces App For Developers: You Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
+* [Unboxing Pieces App For Developers: Your Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
 
 ## Some Dev.TO Articles
 * [Advantages of Bun: When To Choose It Over Nodejs](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
