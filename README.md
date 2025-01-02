@@ -43,4 +43,4 @@ An exhaustive list of original technical articles authored.
 * [Advantages of Bun: When To Choose It Over Nodejs](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
 * [Analyzing and Visualizing Data With PostgreSQL and ArcType SQL Client](https://dev.to/kwamedev/analysing-visualising-data-with-postgresql-and-arctype-sql-client-1o5e)
 * [Data Structures Every Web Developer Should Know](https://dev.to/kwamedev/data-structures-every-web-developer-should-know-1ikg)
-* [Unit Testig With Mocha and Chai](https://dev.to/kwamedev/unit-testing-with-mocha-chai-4gdh)
+* [Unit Testing With Mocha and Chai](https://dev.to/kwamedev/unit-testing-with-mocha-chai-4gdh)
