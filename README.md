@@ -34,7 +34,7 @@ An exhaustive list of original technical articles authored.
 * [PostgreSQL SubQuery: A Guide](https://www.dbvis.com/thetable/postgresql-subquery-a-guide/)
 * [A Beginner's Guide To SQL and Relational Database Management Systemms](https://www.dbvis.com/thetable/a-beginner%e2%80%99s-guide-to-sql-relational-database-management-systems/)
 * [Temporary Tables In Postgres Explained](https://www.dbvis.com/thetable/temporary-tables-in-postgres-explained/)
-* [What Is A PostgreSQL Primary Key](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
+* [What Is A PostgreSQL Primary Key?](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
 
 ## Pieces For Developers
 * [Unboxing Pieces App For Developers: Your Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
