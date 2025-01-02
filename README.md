@@ -32,7 +32,7 @@ An exhaustive list of original technical articles authored.
 * [The Postgres UPDATE Statement: A Deep Dive](https://www.dbvis.com/thetable/the-postgres-update-statement-a-deep-dive/)
 * [A Guide To The Postgres NOT NULL Constraint](https://www.dbvis.com/thetable/a-guide-to-the-postgres-not-null-constraint/)
 * [PostgreSQL SubQuery: A Guide](https://www.dbvis.com/thetable/postgresql-subquery-a-guide/)
-* [A Beginner's Guide To SQL and Relational Database Management Systemms](https://www.dbvis.com/thetable/a-beginner%e2%80%99s-guide-to-sql-relational-database-management-systems/)
+* [A Beginner's Guide To SQL and Relational Database Management Systems](https://www.dbvis.com/thetable/a-beginner%e2%80%99s-guide-to-sql-relational-database-management-systems/)
 * [Temporary Tables In Postgres Explained](https://www.dbvis.com/thetable/temporary-tables-in-postgres-explained/)
 * [What Is A PostgreSQL Primary Key?](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
 
