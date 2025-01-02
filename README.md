@@ -25,7 +25,7 @@ An exhaustive list of original technical articles authored.
 * [SQL INTERSECT: Everything You Need To Know](https://www.dbvis.com/thetable/sql-intersect-everything-you-need-to-know/)
 * [The SQL DELETE Statement Explained](https://www.dbvis.com/thetable/the-sql-delete-statement-explained/)
 * [MySQL IFNULL - Everything You Need To Know](https://www.dbvis.com/thetable/mysql-ifnull-everything-you-need-to-know/)
-* [A Definitive Guide To Poostgres Foreign Key](https://www.dbvis.com/thetable/a-definitive-guide-to-postgres-foreign-key/)
+* [A Definitive Guide To Postgres Foreign Key](https://www.dbvis.com/thetable/a-definitive-guide-to-postgres-foreign-key/)
 * [Show Tables PostgreSQL Guide: Two Approaches](https://www.dbvis.com/thetable/show-tables-postgresql-guide-two-different-approaches/)
 * [PostgreSQL ADD COLUMN: Add One Or MMore Columns To A Table](https://www.dbvis.com/thetable/postgresql-add-column-add-one-or-more-columns-to-a-table/)
 * [Cursors In PostgreSQL: A Guide](https://www.dbvis.com/thetable/cursors-in-postgresql-a-guide/)
