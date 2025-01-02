@@ -14,7 +14,7 @@ An exhaustive list of original technical articles authored.
 * [How to Join Three or More Tables With SQL](https://www.dbvis.com/thetable/how-to-join-three-or-more-tables-with-sql/)
 * [SQL Cheat Sheet: The Ultimate Guide To All Types Of SQL Joins](https://www.dbvis.com/thetable/sql-cheat-sheet-every-join-explained/)
 * [Casting In PostgreSQL: Handling Data Type Conversions Effectively](https://www.dbvis.com/thetable/casting-in-postgresql-handling-data-type-conversions-effectively/)
-* [Date Formatting In PostgreSQL:A Comprehensive Guide](https://www.dbvis.com/thetable/date-formatting-in-postgres-a-comprehensive-guide/)
+* [Date Formatting In PostgreSQL: A Comprehensive Guide](https://www.dbvis.com/thetable/date-formatting-in-postgres-a-comprehensive-guide/)
 * [PostgreSQL DISTINCT: Removing Duplicate Rows From A Result Set](https://www.dbvis.com/thetable/postgresql-distinct-removing-duplicate-rows-from-a-result-set/)
 * [A Comprehensive Guide To Data Types In PostgreSQL](https://www.dbvis.com/thetable/a-comprehensive-guide-to-data-types-in-postgres/)
 * [How To Create A Temporary Table With SQL](https://www.dbvis.com/thetable/how-to-create-a-temporary-table-with-sql/)
