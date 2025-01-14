@@ -40,6 +40,7 @@ An exhaustive list of original technical articles authored.
 * [Unboxing Pieces App For Developers: Your Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
 
 ## Some Dev.To Articles
+* [Technical Writing 101: How To Get Jobs, Gigs & Opportunities](https://dev.to/kwamedev/technical-writing-101-how-to-get-jobs-gigs-opportunities-5kf)
 * [Advantages of Bun: When To Choose It Over Nodejs](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
 * [Analyzing and Visualizing Data With PostgreSQL and ArcType SQL Client](https://dev.to/kwamedev/analysing-visualising-data-with-postgresql-and-arctype-sql-client-1o5e)
 * [Data Structures Every Web Developer Should Know](https://dev.to/kwamedev/data-structures-every-web-developer-should-know-1ikg)
