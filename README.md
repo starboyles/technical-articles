@@ -37,6 +37,12 @@ An exhaustive list of original technical articles authored.
 * [What Is A PostgreSQL Primary Key?](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
 * [How to List Tables in Postgres: Complete Guide](https://www.dbvis.com/thetable/how-to-list-tables-in-postgres-complete-guide/)
 * [SQL EXISTS: Syntax and Use Cases With Examples](https://www.dbvis.com/thetable/sql-exists-syntax-and-use-cases-with-examples/)
+* [Dealing With NULL in SQL: Complete Guide](https://www.dbvis.com/thetable/dealing-with-null-in-sql-complete-guide/)
+* [SQL Query Optimization: Everything You Need to Know](https://www.dbvis.com/thetable/sql-query-optimization-everything-you-need-to-know/)
+* [SQL PIVOT: How to Use a Pivot Table In SQL](https://www.dbvis.com/thetable/sql-pivot-how-to-use-a-pivot-table-in-sql/)
+* [How to Create User Defined Functions and Operators In PostgreSQL](https://www.dbvis.com/thetable/how-to-create-user-defined-functions-and-operators-in-postgresql/)
+* [All You Need to Know About PostgreSQL UNIQUE Constraint](https://www.dbvis.com/thetable/all-you-need-to-know-about-postgresql-unique-constraint/)
+  
 
 ## Pieces For Developers
 * [Unboxing Pieces App For Developers: Your Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
