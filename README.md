@@ -36,6 +36,7 @@ An exhaustive list of original technical articles authored.
 * [Temporary Tables In Postgres Explained](https://www.dbvis.com/thetable/temporary-tables-in-postgres-explained/)
 * [What Is A PostgreSQL Primary Key?](https://www.dbvis.com/thetable/what-is-a-postgresql-primary-key/)
 * [How to List Tables in Postgres: Complete Guide](https://www.dbvis.com/thetable/how-to-list-tables-in-postgres-complete-guide/)
+* [SQL EXISTS: Syntax and Use Cases With Examples](https://www.dbvis.com/thetable/sql-exists-syntax-and-use-cases-with-examples/)
 
 ## Pieces For Developers
 * [Unboxing Pieces App For Developers: Your Workflow Copilot](https://dev.to/kwamedev/unboxing-pieces-app-for-developers-your-workflow-copilot-1i6p)
