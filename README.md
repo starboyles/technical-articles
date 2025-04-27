@@ -42,6 +42,9 @@ An exhaustive list of original technical articles authored.
 * [SQL PIVOT: How to Use a Pivot Table In SQL](https://www.dbvis.com/thetable/sql-pivot-how-to-use-a-pivot-table-in-sql/)
 * [How to Create User Defined Functions and Operators In PostgreSQL](https://www.dbvis.com/thetable/how-to-create-user-defined-functions-and-operators-in-postgresql/)
 * [All You Need to Know About PostgreSQL UNIQUE Constraint](https://www.dbvis.com/thetable/all-you-need-to-know-about-postgresql-unique-constraint/)
+* [SQL PARTITION BY IN POSTGRESQL: A Guide to Window Functions and Data Segmentation](https://www.dbvis.com/thetable/sql-partition-by-in-postgresql-a-guide-to-window-functions-and-data-segmentation/)
+* [Understanding the SQL UNIQUE constraint](https://www.dbvis.com/thetable/understanding-the-sql-unique-constraint/)
+* 
   
 
 ## Pieces For Developers
