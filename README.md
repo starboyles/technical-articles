@@ -44,7 +44,15 @@ An exhaustive list of original technical articles authored.
 * [All You Need to Know About PostgreSQL UNIQUE Constraint](https://www.dbvis.com/thetable/all-you-need-to-know-about-postgresql-unique-constraint/)
 * [SQL PARTITION BY IN POSTGRESQL: A Guide to Window Functions and Data Segmentation](https://www.dbvis.com/thetable/sql-partition-by-in-postgresql-a-guide-to-window-functions-and-data-segmentation/)
 * [Understanding the SQL UNIQUE constraint](https://www.dbvis.com/thetable/understanding-the-sql-unique-constraint/)
-* 
+* [Top Platforms for Learning SQL and Database Analytics](https://www.dbvis.com/thetable/top-platforms-for-learning-sql-and-database-analytics/)
+* [Database Clients: A User Rating Comparison](https://www.dbvis.com/thetable/database-clients-a-user-rating-comparison/)
+* [Best BeeKeeper Studio Alternatives in 2025](https://www.dbvis.com/thetable/best-beekeeper-studio-alternatives-in-2025/)
+* [Listing Tables in Oracle: Three Different Approaches](https://www.dbvis.com/thetable/listing-tables-in-oracle-three-different-approaches/)
+* [Database as a Service (DBaaS) Solutions of 2025](https://www.dbvis.com/thetable/best-database-as-a-service-dbaas-solutions-of-2025/)
+* [The Complete Guide to CONCAT in SQL Queries: Syntax, Examples, and Best Practices](https://www.dbvis.com/thetable/the-complete-guide-to-concat-in-sql-queries-syntax-examples-and-best-practices/)
+
+### Official Documentation
+* [Working with Schemas in DbVisualizer](https://www.dbvis.com/docs/ug/working-with-schemas/)
   
 
 ## Pieces For Developers
