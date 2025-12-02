@@ -54,6 +54,9 @@ An exhaustive list of original technical articles authored.
 * [Top SQL Masking Tools in 2025](https://www.dbvis.com/thetable/top-sql-masking-tools-in-2025/)
 * [The RANK Window Function in SQL: A Complete Guide](https://www.dbvis.com/thetable/the-rank-window-function-in-sql-a-complete-guide/)
 * [PostgreSQL TRUNCATE TABLE Statement: A Guide](https://www.dbvis.com/thetable/postgresql-truncate-table-statement-a-guide/)
+* [PostgreSQL Index Mechanism: A Guide to Database Performance Optimization](https://www.dbvis.com/thetable/postgresql-index-mechanism-a-guide-to-database-performance-optimization/)
+* [Database Clients: A User Rating Comparison](https://www.dbvis.com/thetable/database-clients-a-user-rating-comparison/)
+* [Best SQL Clients for ER Diagrams & Modeling (2025)](https://www.dbvis.com/thetable/best-sql-clients-for-er-diagrams-modeling-2025/)
 
 ### Official Documentation
 * [Working with Schemas in DbVisualizer](https://www.dbvis.com/docs/ug/working-with-schemas/)
