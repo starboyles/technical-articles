@@ -50,6 +50,10 @@ An exhaustive list of original technical articles authored.
 * [Listing Tables in Oracle: Three Different Approaches](https://www.dbvis.com/thetable/listing-tables-in-oracle-three-different-approaches/)
 * [Database as a Service (DBaaS) Solutions of 2025](https://www.dbvis.com/thetable/best-database-as-a-service-dbaas-solutions-of-2025/)
 * [The Complete Guide to CONCAT in SQL Queries: Syntax, Examples, and Best Practices](https://www.dbvis.com/thetable/the-complete-guide-to-concat-in-sql-queries-syntax-examples-and-best-practices/)
+* [SQL DROP TABLE IF EXISTS: The Database Migration Lifesaver](https://www.dbvis.com/thetable/sql-drop-table-if-exists-the-database-migration-lifesaver/)
+* [Top SQL Masking Tools in 2025](https://www.dbvis.com/thetable/top-sql-masking-tools-in-2025/)
+* [The RANK Window Function in SQL: A Complete Guide](https://www.dbvis.com/thetable/the-rank-window-function-in-sql-a-complete-guide/)
+* [PostgreSQL TRUNCATE TABLE Statement: A Guide](https://www.dbvis.com/thetable/postgresql-truncate-table-statement-a-guide/)
 
 ### Official Documentation
 * [Working with Schemas in DbVisualizer](https://www.dbvis.com/docs/ug/working-with-schemas/)
